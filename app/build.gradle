@@ -80,7 +80,9 @@ android {
 
     namespace 'com.owncloud.android'
     testNamespace "${namespace}.test"
-
+    dexOptions {
+        javaMaxHeapSize "4G"
+    }
 
     defaultConfig {
         minSdkVersion 23

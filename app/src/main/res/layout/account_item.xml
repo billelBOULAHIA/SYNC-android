@@ -118,7 +118,7 @@
                 android:maxLines="1"
                 android:text="@string/placeholder_sentence"
                 android:textColor="?android:attr/textColorSecondary"
-                tools:text="https://nextcloud.localhost/nextcloud" />
+                tools:text="https://hub.uvoza.fr" />
 
         </LinearLayout>
 
